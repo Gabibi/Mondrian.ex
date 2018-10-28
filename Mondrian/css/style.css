@@ -1,0 +1,152 @@
+body {
+  width: 850px;
+  height: 600px;
+  background-color: white;
+}
+
+.container1 {
+  width: 650px;
+  height: 200px;
+  border: 15px solid black;
+  border-right: none;
+  display: flex;
+  border-left: none;
+  border-top: none;
+
+}
+
+
+.bloc1 {
+  width: 10px;
+  border-right: 15px solid black;
+}
+
+.bloc2L1 {
+  width: 100px;
+  border-right: 15px solid black;
+}
+
+.bloc3L1 {
+  width: 200px;
+  border-right: 15px solid black;
+}
+
+.bloc4L1 {
+  width: 300px;
+  border-right: 15px solid black;
+}
+
+
+
+
+
+
+.bloc2L2 {
+  width: 100px;
+  border-right: 15px solid black;
+}
+
+.bloc3L2 {
+  width: 200px;
+  border-right: 15px solid black;
+}
+
+.bloc4L2 {
+  width: 100px;
+  border-right: 15px solid black;
+}
+
+.bloc5L2 {
+  width: 184px;
+  border-right: 15px solid black;
+}
+
+
+
+
+.container2 {
+  width: 650px;
+  height: 200px;
+  display: flex;
+
+}
+
+
+
+
+.container2_1 {
+  width: 129px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container2_2 {
+  width: 368px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container2_3 {
+  width: 223px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.bloc2L3 {
+  height: 100px;
+  border-right: 15px solid black;
+  border-bottom: 15px solid black;
+}
+
+.bloc4L3 {
+  height: 100px;
+  border-bottom: 15px solid black;
+  border-right: 15px solid black;
+}
+
+.bloc4L4 {
+  height: 100px;
+  border-bottom: none;
+  border-right: none;
+}
+
+
+.bloc3L4 {
+  height: 100px;
+  border-right: 15px solid black;
+  border-bottom: none;
+}
+
+
+.bloc2L4 {
+  height: 100px;
+  border-right: 15px solid black;
+  border-bottom: none;
+}
+
+
+.bloc3L3 {
+  height: 100px;
+  border-right: 15px solid black;
+  border-bottom: 15px solid black;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.white {
+  background-color: white;
+}
